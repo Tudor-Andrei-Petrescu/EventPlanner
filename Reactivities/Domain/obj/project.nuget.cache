@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R06mnHsIm9/S9Sz9QmHHDZG596qnjlMvvFgYWShOUtv6nN8ZWQYRWkWRYVQIW0/dgJnzUKNefCsB5BofYjozXg==",
+  "dgSpecHash": "KqgbgMA7syYE29rrnMActRRdlyzHBEmY6W0XwyQbHV1YmDz5pp6II2+amrIvXSBpo/xKcHHq1fsG2/4TkPcRPQ==",
   "success": true,
-  "projectFilePath": "D:\\udemy-course\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\udemy-course\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "d:\\udemy-course\\git\\EventPlanner\\Reactivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\udemy-course\\Reactivities\\Domain\\Domain.csproj",
+      "projectPath": "d:\\udemy-course\\git\\EventPlanner\\Reactivities\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Tudor\\.nuget\\packages\\",
-      "outputPath": "D:\\udemy-course\\Reactivities\\Domain\\obj\\",
+      "outputPath": "d:\\udemy-course\\git\\EventPlanner\\Reactivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tudor\\AppData\\Roaming\\NuGet\\NuGet.Config",
