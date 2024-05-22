@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\udemy-course\\Reactivities\\Application\\Application.csproj": {}
+    "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\udemy-course\\Reactivities\\Application\\Application.csproj": {
+    "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\udemy-course\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\udemy-course\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Tudor\\.nuget\\packages\\",
-        "outputPath": "D:\\udemy-course\\Reactivities\\Application\\obj\\",
+        "outputPath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tudor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\udemy-course\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\udemy-course\\Reactivities\\Domain\\Domain.csproj"
+              "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Domain\\Domain.csproj"
               },
-              "D:\\udemy-course\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\udemy-course\\Reactivities\\Persistence\\Persistence.csproj"
+              "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "D:\\udemy-course\\Reactivities\\Domain\\Domain.csproj": {
+    "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\udemy-course\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\udemy-course\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Tudor\\.nuget\\packages\\",
-        "outputPath": "D:\\udemy-course\\Reactivities\\Domain\\obj\\",
+        "outputPath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tudor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,14 +131,14 @@
         }
       }
     },
-    "D:\\udemy-course\\Reactivities\\Persistence\\Persistence.csproj": {
+    "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\udemy-course\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\udemy-course\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Tudor\\.nuget\\packages\\",
-        "outputPath": "D:\\udemy-course\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tudor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,8 +155,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\udemy-course\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\udemy-course\\Reactivities\\Domain\\Domain.csproj"
+              "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -175,6 +175,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
