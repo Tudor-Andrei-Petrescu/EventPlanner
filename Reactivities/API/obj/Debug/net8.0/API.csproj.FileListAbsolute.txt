@@ -170,3 +170,7 @@ D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\ru\Microsoft.
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\MediatR.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\AutoMapper.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
