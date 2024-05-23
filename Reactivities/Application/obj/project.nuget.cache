@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "gsUnXdbO+zlqDMklrupv/yq/CVBQMtSjrysNkyGNhfJpod4gp53xbHzaFJ5RMWZq8gJBkRmesTNk9lSXalEogQ==",
+  "dgSpecHash": "TZrPLwS1rjxlcA+S4NMPizJqPL3Km7S+z+Drc8uj2eH7LSFpn6atig9EmZTqRugy/AQHSzTR/mIZEEQfjzPazw==",
   "success": true,
   "projectFilePath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Tudor\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Tudor\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Tudor\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Tudor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Tudor\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Tudor\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.5\\microsoft.data.sqlite.core.8.0.5.nupkg.sha512",
     "C:\\Users\\Tudor\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.5\\microsoft.entityframeworkcore.8.0.5.nupkg.sha512",
     "C:\\Users\\Tudor\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.5\\microsoft.entityframeworkcore.abstractions.8.0.5.nupkg.sha512",
