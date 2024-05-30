@@ -174,3 +174,6 @@ D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\MediatR.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\MediatR.Contracts.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\AutoMapper.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\FluentValidation.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

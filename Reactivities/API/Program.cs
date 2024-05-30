@@ -1,4 +1,5 @@
 using API.Extensions;
+using API.Middleware;
 using Application.Activities;
 using Application.Core;
 using Microsoft.EntityFrameworkCore;
@@ -12,6 +13,8 @@ builder.Services.AddControllers();
 builder.Services.AddApplicationservices(builder.Configuration);
 
 var app = builder.Build();
+
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseCors("CorsPolicy");
 
