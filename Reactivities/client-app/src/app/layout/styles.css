@@ -40,4 +40,6 @@ body{
   font-weight: normal;
 }
 
-a
+.react-datepicker-wrapper{
+  width: 100%;
+}
