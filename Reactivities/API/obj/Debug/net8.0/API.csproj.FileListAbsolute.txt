@@ -177,3 +177,17 @@ D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\AutoMapper.Ex
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\FluentValidation.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
