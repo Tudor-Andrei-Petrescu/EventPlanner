@@ -21,3 +21,4 @@ D:\udemy-course\git\EventPlanner\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
 D:\udemy-course\git\EventPlanner\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\udemy-course\git\EventPlanner\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
 D:\udemy-course\git\EventPlanner\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\udemy-course\git\EventPlanner\Reactivities\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
