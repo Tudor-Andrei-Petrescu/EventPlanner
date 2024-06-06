@@ -32,9 +32,10 @@ namespace Application.Activities
                 .SingleOrDefaultAsync(x => x.Id == request.Id);
 
                 if(activity == null) 
-                {  
+                {   
                      return null;
                 }
+                
 
                 var user = await _context.Users.FirstOrDefaultAsync(x => 
                 x.UserName == _accessor.GetUserName());
