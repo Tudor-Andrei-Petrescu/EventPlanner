@@ -191,3 +191,5 @@ D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\System.Identi
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Infrastructure.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Infrastructure.pdb

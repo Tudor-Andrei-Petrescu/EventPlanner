@@ -1464,6 +1464,19 @@
           "bin/placeholder/Domain.dll": {}
         }
       },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
+        }
+      },
       "Persistence/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -3791,6 +3804,11 @@
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
     },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+    },
     "Persistence/1.0.0": {
       "type": "project",
       "path": "../Persistence/Persistence.csproj",
@@ -3800,6 +3818,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Application >= 1.0.0",
+      "Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.6",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.5",
       "Swashbuckle.AspNetCore >= 6.4.0",
@@ -3835,6 +3854,9 @@
           "projectReferences": {
             "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Application\\Application.csproj": {
               "projectPath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Application\\Application.csproj"
+            },
+            "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
