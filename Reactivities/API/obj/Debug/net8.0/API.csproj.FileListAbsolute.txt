@@ -193,3 +193,5 @@ D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.Ide
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Infrastructure.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Infrastructure.pdb
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Newtonsoft.Json.dll
