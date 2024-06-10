@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "react-cropper": "^2.3.3",
     "react-router-dom": "^6.23.1"
   }
 }
