@@ -88,7 +88,7 @@ export default class activityStore{
         )
 
         activity.isHost = activity.hostUsername === user.username;
-        activity.host = activity.attendees?.find(
+        activity.host = activity.attendees!.find(
           x => x.username === activity.hostUsername
         )
       }
@@ -203,6 +203,10 @@ export default class activityStore{
           this.loading = false;
         })
       }
+    }
+
+    clearSelectedActivity = () => {
+      this.selectedActivity = undefined;
     }
 
 
