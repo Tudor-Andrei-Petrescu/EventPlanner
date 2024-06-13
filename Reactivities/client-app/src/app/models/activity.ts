@@ -13,7 +13,7 @@ export interface Activity {
   isGoing: boolean;
   isHost? :boolean;
   host: Profile;
-  attendees: Profile[] | null;
+  attendees: Profile[];
 }
 
 export class Activity implements Activity{

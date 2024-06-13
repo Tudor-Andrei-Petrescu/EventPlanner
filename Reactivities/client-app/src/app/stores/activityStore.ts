@@ -88,7 +88,7 @@ export default class activityStore{
         )
 
         activity.isHost = activity.hostUsername === user.username;
-        activity.host = activity.attendees!.find(
+        activity.host = activity.attendees.find(
           x => x.username === activity.hostUsername
         )
       }
@@ -207,6 +207,17 @@ export default class activityStore{
 
     clearSelectedActivity = () => {
       this.selectedActivity = undefined;
+    }
+
+    updateAttendeeFollowing = (username: string) => {
+      this.activityRegistry.forEach(activity => {
+        activity.attendees.forEach(attendee => {
+          if(attendee.username == username){
+            attendee.following ? attendee.followersCount -- : attendee.followersCount ++;
+            attendee.following = !attendee.following;
+          }
+        })
+      })
     }
 
 
