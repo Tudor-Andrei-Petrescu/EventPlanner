@@ -11,6 +11,13 @@ export interface Profile {
   photos?: Photo[];
 }
 
+export interface UserActivity {
+  id: string;
+  title: string;
+  category: string;
+  date: Date;
+ }
+
 export class Profile implements Profile {
   constructor(user: User){
     this.username = user.username;

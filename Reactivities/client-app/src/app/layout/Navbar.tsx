@@ -12,11 +12,11 @@ export default observer(function NavBar() {
                 <img src='/assets/logo.png' alt="logo" style={{marginRight: '10px'}}/>
                 GatherUp
             </Menu.Item>
-            <Menu.Item  as={NavLink} to='/activities' name="Activities"/>
-            <Menu.Item  as={NavLink} to='/errors' name="Errors"/>
+            <Menu.Item  as={NavLink} to='/activities' name="Events"/>
+            {/* <Menu.Item  as={NavLink} to='/errors' name="Errors"/> */}
 
             <Menu.Item>
-              <Button as={NavLink} to='createActivity' positive content="Create activity"/>
+              <Button as={NavLink} to='createActivity' positive content="Create event"/>
             </Menu.Item>
 
             <Menu.Item position="right">
