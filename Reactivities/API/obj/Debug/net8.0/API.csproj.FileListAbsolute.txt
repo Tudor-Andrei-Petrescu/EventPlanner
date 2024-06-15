@@ -195,3 +195,6 @@ D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Infrastructur
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Infrastructure.pdb
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\CloudinaryDotNet.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\API.staticwebassets.runtime.json
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Npgsql.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

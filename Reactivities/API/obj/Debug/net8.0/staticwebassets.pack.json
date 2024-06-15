@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\brand-icons-Cu_C0hZ4.svg",
+      "PackagePath": "staticwebassets\\assets\\brand-icons-Cu_C0hZ4.svg"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\brand-icons-F3SPCeH1.woff",
+      "PackagePath": "staticwebassets\\assets\\brand-icons-F3SPCeH1.woff"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\brand-icons-XL9sxUpA.woff2",
+      "PackagePath": "staticwebassets\\assets\\brand-icons-XL9sxUpA.woff2"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\brand-icons-sqJ2Pg7a.eot",
+      "PackagePath": "staticwebassets\\assets\\brand-icons-sqJ2Pg7a.eot"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\brand-icons-ubhWoxly.ttf",
+      "PackagePath": "staticwebassets\\assets\\brand-icons-ubhWoxly.ttf"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\culture.jpg",
+      "PackagePath": "staticwebassets\\assets\\categoryImages\\culture.jpg"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\drinks.jpg",
+      "PackagePath": "staticwebassets\\assets\\categoryImages\\drinks.jpg"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\film.jpg",
+      "PackagePath": "staticwebassets\\assets\\categoryImages\\film.jpg"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\food.jpg",
+      "PackagePath": "staticwebassets\\assets\\categoryImages\\food.jpg"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\music.jpg",
+      "PackagePath": "staticwebassets\\assets\\categoryImages\\music.jpg"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\travel.jpg",
+      "PackagePath": "staticwebassets\\assets\\categoryImages\\travel.jpg"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\flags-DOLqOU7Y.png",
+      "PackagePath": "staticwebassets\\assets\\flags-DOLqOU7Y.png"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\icons-BOCtAERH.woff",
+      "PackagePath": "staticwebassets\\assets\\icons-BOCtAERH.woff"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\icons-CHzK1VD9.eot",
+      "PackagePath": "staticwebassets\\assets\\icons-CHzK1VD9.eot"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\icons-D29ZQHHw.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons-D29ZQHHw.ttf"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\icons-Du6TOHnR.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons-Du6TOHnR.woff2"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\icons-RwhydX30.svg",
+      "PackagePath": "staticwebassets\\assets\\icons-RwhydX30.svg"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\index-BsI2qT7t.js",
+      "PackagePath": "staticwebassets\\assets\\index-BsI2qT7t.js"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\index-CDhFddxu.css",
+      "PackagePath": "staticwebassets\\assets\\index-CDhFddxu.css"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\index-Db0iV1y-.js",
+      "PackagePath": "staticwebassets\\assets\\index-Db0iV1y-.js"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\logo.png"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\outline-icons-BfdLr8tr.svg",
+      "PackagePath": "staticwebassets\\assets\\outline-icons-BfdLr8tr.svg"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\outline-icons-DD8jm0uy.ttf",
+      "PackagePath": "staticwebassets\\assets\\outline-icons-DD8jm0uy.ttf"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\outline-icons-DInHoiqI.woff2",
+      "PackagePath": "staticwebassets\\assets\\outline-icons-DInHoiqI.woff2"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\outline-icons-LX8adJ4n.eot",
+      "PackagePath": "staticwebassets\\assets\\outline-icons-LX8adJ4n.eot"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\outline-icons-aQ88nltS.woff",
+      "PackagePath": "staticwebassets\\assets\\outline-icons-aQ88nltS.woff"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\placeholder.png",
+      "PackagePath": "staticwebassets\\assets\\placeholder.png"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\user.png",
+      "PackagePath": "staticwebassets\\assets\\user.png"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "L2sohi1uHtfuO59EKoJSXDOCVXvk/hx/+2Vnpi6h6FlR+wGkCFwsMYrfJY/1YA+Q+tk8wvjGtaqdHpocNe1baQ==",
+  "dgSpecHash": "FJfBy/8cH6w/LJK3vxhelKqs+hMoWG1bZsZCld+CJkXay43b/XoSwJ6aCC605TucMLgYDxu4Y0u9Z5ViKNADXA==",
   "success": true,
   "projectFilePath": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,8 @@
     "C:\\Users\\Tudor\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Tudor\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\Tudor\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tudor\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
+    "C:\\Users\\Tudor\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.4\\npgsql.entityframeworkcore.postgresql.8.0.4.nupkg.sha512",
     "C:\\Users\\Tudor\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\Tudor\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\Tudor\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",

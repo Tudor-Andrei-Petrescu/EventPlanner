@@ -1,6 +1,5 @@
-import { Cropper, ReactCropperElement } from "react-cropper";
+import { Cropper } from "react-cropper";
 import "cropperjs/dist/cropper.css";
-import { useRef } from "react";
 
 interface Props {
   imagePreview: string;
@@ -8,7 +7,6 @@ interface Props {
 }
 
 export default function PhotoWidgetCropper({imagePreview, setCropper}: Props) {
-  const cropperRef = useRef<ReactCropperElement>(null);
   return (
     <Cropper
     src = {imagePreview}
