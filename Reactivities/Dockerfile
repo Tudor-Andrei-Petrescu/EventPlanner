@@ -14,7 +14,7 @@ RUN dotnet restore "Reactivities/Reactivities.sln"
 #copy everything else and build
 COPY . .
 WORKDIR /app
-RUN dotnet publish -c Release -o out 
+RUN dotnet publish Reactivities/Reactivities.sln -c Release -o out 
 
 #build runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
