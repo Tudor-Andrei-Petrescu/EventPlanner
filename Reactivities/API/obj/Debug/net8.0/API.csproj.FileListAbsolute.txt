@@ -198,3 +198,5 @@ D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Newtonsoft.Js
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\API.staticwebassets.runtime.json
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Npgsql.dll
 D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\NWebsec.AspNetCore.Core.dll
+D:\udemy-course\git\EventPlanner\Reactivities\API\bin\Debug\net8.0\NWebsec.AspNetCore.Middleware.dll

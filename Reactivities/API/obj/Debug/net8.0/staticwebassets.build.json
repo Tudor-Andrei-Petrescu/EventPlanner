@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ENja7MGn4JcXbg45Fal2rQ55ErgzAbwElS2g3yIzJIo=",
+  "Hash": "T6+V3ucbWg2+BD+b4Y1qooLw5iP1TBm3JZS9quWPHig=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -395,6 +395,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-Db0iV1y-.js"
+    },
+    {
+      "Identity": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\index-i7K13CyJ.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-i7K13CyJ.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-i7K13CyJ.js"
     },
     {
       "Identity": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\logo.png",
