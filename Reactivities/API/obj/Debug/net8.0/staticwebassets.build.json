@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T6+V3ucbWg2+BD+b4Y1qooLw5iP1TBm3JZS9quWPHig=",
+  "Hash": "c0FNP2pQ5QY/XYac0NDaN9IRQhiikIQqSfAzQLPtXVU=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -395,6 +395,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-Db0iV1y-.js"
+    },
+    {
+      "Identity": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\index-gO_cKZRG.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-gO_cKZRG.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-gO_cKZRG.js"
     },
     {
       "Identity": "D:\\udemy-course\\git\\EventPlanner\\Reactivities\\API\\wwwroot\\assets\\index-i7K13CyJ.js",
