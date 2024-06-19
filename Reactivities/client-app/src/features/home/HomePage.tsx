@@ -36,7 +36,7 @@ export default observer(function HomePage() {
                   <FacebookLogin
                   appId="307635072422122"
                   onSuccess={(response: SuccessResponse) => {
-                    console.log('Login successful', response);
+                    //console.log('Login successful', response);
                     userStore.fbLogin(response.accessToken);
                   }}
                   onFail={(response: FailResponse) => {
