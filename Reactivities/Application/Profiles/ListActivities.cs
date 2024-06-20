@@ -34,10 +34,10 @@ namespace Application.Profiles
                 .AsQueryable();
                 query = request.Predicate switch
                 {
-                    "past" => query.Where(a => a.Date <= DateTime.Now),
+                    "past" => query.Where(a => a.Date <= DateTime.UtcNow),
                     "hosting" => query.Where(a => a.HostUsername ==
                    request.Username),
-                    _ => query.Where(a => a.Date >= DateTime.Now)
+                    _ => query.Where(a => a.Date >= DateTime.UtcNow)
                 };
                 var activities = await query.ToListAsync();
                 return Result<List<UserActivityDto>>.Success(activities);
